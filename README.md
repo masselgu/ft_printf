@@ -58,19 +58,6 @@ Your implementation must handle the following format specifiers:
 | `%%` | Prints a percent sign | `ft_printf("%%")` → `%` |
 
 ## 🚀 Usage
-
-### 📦 Compilation
-
-Your `Makefile` should produce `libftprintf.a`:
-
-```bash
-make        # Compiles the library
-make clean  # Removes object files
-make fclean # Removes object files and the library
-make re     # Re-compiles the library
-```
-
-## 🚀 Usage
 ### 🛠️ Compilation
 ``` bash
 make        # Compiles the library
