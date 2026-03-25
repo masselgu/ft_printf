@@ -2,7 +2,7 @@
 
 > Because ft_putnbr and ft_putstr aren't enough.
 
-[![norminette](https://img.shields.io/badge/norminette-100%-25-brightgreen)](https://github.com/42School/norminette)
+[![norminette](https://img.shields.io/badge/norminette-100%-brightgreen)](https://github.com/42School/norminette)
 [![Language c](https://img.shields.io/badge/Language-C-blue)](https://42.fr)
 [![42](https://img.shields.io/badge/42-cursus-blue)](https://42.fr)
 
